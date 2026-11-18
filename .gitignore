@@ -1,0 +1,8 @@
+# 只公開網站本身；原始 logo、匯出腳本與其他檔案留在本機
+logo/
+Claude outputs/
+export_site_data.py
+site_exclude.txt
+__pycache__/
+*.pyc
+*.bat
